@@ -1,0 +1,16 @@
+
+img{
+    width: 158px;
+    max-width: 65rem;
+}
+
+table{
+    background-color: aliceblue;
+}
+
+.square-card{
+    border-radius: 15px;
+    box-shadow: 0px 5px 50px rgba(245, 255, 255);
+    margin-top: 5%;
+    padding-bottom: 1%;
+}

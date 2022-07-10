@@ -1,0 +1,11 @@
+.results {
+    padding-top: 10%;
+}
+
+@media (max-width:560px) {
+    .results {
+        padding-top: 40% !important;
+        padding-right: 10%;
+        padding-left: 8%;
+    }
+}

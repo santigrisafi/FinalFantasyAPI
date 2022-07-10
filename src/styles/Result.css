@@ -1,0 +1,16 @@
+.result{
+    margin-bottom: 5%;
+    justify-content: center;
+}
+
+@media(min-width: 560px){
+    .result{
+        padding-bottom: 10%;
+    }
+}
+
+@media(max-width: 560px){
+    .result{
+        padding-bottom: 10%;
+    }
+}

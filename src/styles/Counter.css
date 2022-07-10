@@ -1,0 +1,11 @@
+.counter{
+    margin-top: 5%;
+}
+
+@media(max-width: 560px){
+    .counter{
+        margin-bottom: 30px;
+        text-align: center;
+        padding-left: 10%;
+    }
+}
